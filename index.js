@@ -1,4 +1,4 @@
-let counter = 100;
+let counter = 0;
 let prefixIncrement = ++count;
 let postfixIncrement = count++;
 let prefixDecrement = --count;
