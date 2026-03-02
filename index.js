@@ -1,6 +1,6 @@
-let counter = 0;
-let prefixIncrement = ++count;
-let postfixIncrement = count++;
-let prefixDecrement = --count;
-let postfixDecrement = count--;
+let counter = 100;
+let prefixIncrement = ++counter;
+let postfixIncrement = counter++;
+let prefixDecrement = --counter;
+let postfixDecrement = counter--;
 document.getElementById('result').innerHTML =counter;
